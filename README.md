@@ -11,14 +11,15 @@ Message-passing neural networks (MPNNs) have been successfully applied in a wide
 ## Code
 
 #### Required Packages
-1. PyTorch
-2. NetworkX
-3. Deep Graph Library
-4. Numpy
-5. Scipy
-6. Scikit-Learn
-7. Tensorflow
-8. TensorboardX
+0. Python 3.7
+1. PyTorch 1.7.1 Cuda 9.2
+2. NetworkX 2.5
+3. Deep Graph Library 0.3 Cuda 9.2
+4. Numpy 1.19.2
+5. Scipy 1.5.2
+6. Scikit-Learn 0.23.2
+7. Tensorflow 1.14.0
+8. TensorboardX 2.1
 
 #### Table 3
 To replicate the Geom-GCN results from Table 3, run
