@@ -43,3 +43,8 @@ bash ExperimentTwoAllGeomGCN_runs.txt
 ```
 
 Results will be stored in `runs`.
+
+
+## Statement of data source
+
+This code imports data sets contained in the folders “new-data” and "data". These data sets are cited in the original publication at https://arxiv.org/abs/2002.05287. Users of this code should cite the original data sets, if used.
