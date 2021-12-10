@@ -47,4 +47,4 @@ Results will be stored in `runs`.
 
 ## Statement of data source
 
-This code imports data sets contained in the folders “new-data” and "data". These data sets are cited in the original publication at https://arxiv.org/abs/2002.05287. Users of this code should cite the original data sets, if used.
+This code imports data sets from other researchers that are contained in the folders “new-data” and "data". These data sets and their original sources are described and referenced in Section 4.1 of our publication at https://arxiv.org/abs/2002.05287. Users of this code should cite the original data sets and their sources, if used.
